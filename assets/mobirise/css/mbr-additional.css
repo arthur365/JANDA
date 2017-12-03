@@ -1859,7 +1859,7 @@ body {
 }
 .cid-qC02PbBvrZ {
   padding-top: 105px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/lm-950x634.jpg");
 }
 .cid-qC02PbBvrZ .media-container-row {
@@ -2376,7 +2376,7 @@ body {
 }
 .cid-qC14VeDF8k {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/lm-950x634.jpg");
 }
 .cid-qC14VeDF8k H2 {
@@ -2599,12 +2599,12 @@ body {
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
-  background: #680489;
+  background: #390549;
   transition: none;
   min-height: 77px;
 }
 .cid-qC02wibD3X .navbar-dropdown.bg-color.transparent.opened {
-  background: #680489;
+  background: #390549;
 }
 .cid-qC02wibD3X a {
   font-style: normal;
@@ -2682,7 +2682,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qC02wibD3X .dropdown .dropdown-menu {
-  background: #680489;
+  background: #390549;
   display: none;
   position: absolute;
   min-width: 5rem;
